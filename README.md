@@ -1,2 +1,2 @@
-# Landing-page-PR1
-html, css
+# projekt-1-landingpage
+html i css
